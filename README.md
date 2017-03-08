@@ -12,9 +12,13 @@
 - Filament Group Responsive Carousel: https://github.com/filamentgroup/responsive-carousel
 - Flickity: http://flickity.metafizzy.co/
   https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/
-- Glide: http://glide.jedrzejchalubek.com/docs.html
+- Glide.js: http://glide.jedrzejchalubek.com/docs.html
 - MightySlider: https://mightyslider.com/
-  
+
+## ANIMATION
+- Animate.css: https://daneden.github.io/animate.css/ | https://github.com/daneden/animate.css
+- Velocity.js: http://velocityjs.org/ | https://github.com/julianshapiro/velocity
+
 ## INSPIRATIONAL
 - http://desandro.com/
 - http://tympanus.net/codrops/
