@@ -23,3 +23,8 @@
 - http://desandro.com/
 - http://metafizzy.co/
 - http://tympanus.net/codrops/
+
+## IMAGE PIN / IMAGE NOTES
+- https://github.com/atayahmet/jquery.easypin
+- https://github.com/waynegm/imgNotes
+- https://github.com/duncanheron/dropPin
