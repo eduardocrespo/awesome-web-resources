@@ -28,8 +28,10 @@
 - https://github.com/atayahmet/jquery.easypin
 - https://github.com/waynegm/imgNotes
 - https://github.com/duncanheron/dropPin
+- http://naver.github.io/ImageMaps/
 
 ## MAPAS
 - http://gmap3.net/
 - http://jvectormap.com/
 - http://maplacejs.com/
+- https://www.vincentbroute.fr/mapael/
