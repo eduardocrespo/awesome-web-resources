@@ -36,3 +36,4 @@
 - http://maplacejs.com/
 - https://www.vincentbroute.fr/mapael/
 - http://jhere.net/
+- http://datamaps.github.io/
