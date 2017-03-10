@@ -35,3 +35,4 @@
 - http://jvectormap.com/
 - http://maplacejs.com/
 - https://www.vincentbroute.fr/mapael/
+- http://jhere.net/
