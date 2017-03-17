@@ -1,5 +1,12 @@
 # awesome-web-resources
 
+## GENERAL / COMMON LIBRARIES
+- http://locutus.io/ (anteriormente phpjs)
+- http://underscorejs.org/
+- http://browserify.org/
+- http://rollupjs.org/
+- https://webpack.github.io/
+
 ## LIGHTBOX
 - Magnific Popup: http://dimsemenov.com/plugins/magnific-popup/
 - Shadowbox: https://github.com/mjackson/shadowbox
@@ -20,9 +27,9 @@
 - Velocity.js: http://velocityjs.org/ | https://github.com/julianshapiro/velocity
 
 ## INSPIRATIONAL
+- http://tympanus.net/codrops/
 - http://desandro.com/
 - http://metafizzy.co/
-- http://tympanus.net/codrops/
 
 ## IMAGE PIN / IMAGE NOTES
 - https://github.com/atayahmet/jquery.easypin
@@ -38,5 +45,8 @@
 - http://jhere.net/
 - http://datamaps.github.io/
 
-## COLLECTIONS OF FRONT END COMPONENTS
+## FRONT-END FRAMEWORKS / COLLECTIONS OF FRONT-END COMPONENTS
+- http://getbootstrap.com/
+- https://getuikit.com/
 - https://formstone.it/
+
