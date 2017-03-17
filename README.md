@@ -50,3 +50,14 @@
 - https://getuikit.com/
 - https://formstone.it/
 
+## SELECT DESPLEGABLE/ DROPDOWN
+- https://select2.github.io/
+- https://harvesthq.github.io/chosen/
+- https://selectize.github.io/selectize.js/
+- http://www.jqueryscript.net/form/Lightweight-Multi-select-Combo-Box-Plugin-For-jQuery-SelectListActions.html
+- http://loudev.com/
+- http://hemantnegi.github.io/jquery.sumoselect/
+- https://demos.shieldui.com/web/listbox/basic-usage
+- http://dbrekalo.github.io/fastselect/
+- http://gregfranko.com/jquery.selectBoxIt.js/
+- http://nicolasbize.com/magicsuggest/examples.html
