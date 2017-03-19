@@ -3,9 +3,15 @@
 ## GENERAL / COMMON LIBRARIES
 - http://locutus.io/ (anteriormente phpjs)
 - http://underscorejs.org/
+- https://lodash.com/
 - http://browserify.org/
 - http://rollupjs.org/
 - https://webpack.github.io/
+
+## POLYMER
+- https://www.polymer-project.org/
+- https://www.webcomponents.org/polyfills/
+- https://developers.google.com/web/tools/polymer-starter-kit/
 
 ## LIGHTBOX
 - Magnific Popup: http://dimsemenov.com/plugins/magnific-popup/
