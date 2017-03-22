@@ -1,5 +1,10 @@
 # awesome-web-resources
 
+## ANIMATION
+- Animate.css: https://daneden.github.io/animate.css/ | https://github.com/daneden/animate.css
+- Velocity.js: http://velocityjs.org/ | https://github.com/julianshapiro/velocity
+- Anime.js: http://anime-js.com/
+
 ## PLAYGROUNDS 
 - http://codepen.io/
 - https://jsfiddle.net/
@@ -37,10 +42,6 @@
   https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/
 - Glide.js: http://glide.jedrzejchalubek.com/docs.html
 - MightySlider: https://mightyslider.com/
-
-## ANIMATION
-- Animate.css: https://daneden.github.io/animate.css/ | https://github.com/daneden/animate.css
-- Velocity.js: http://velocityjs.org/ | https://github.com/julianshapiro/velocity
 
 ## INSPIRATIONAL
 - http://tympanus.net/codrops/
