@@ -1,5 +1,8 @@
 # awesome-web-resources
 
+## WEBMASTER TOOLS
+- https://www.google.com/webmasters/
+
 ## GENERAL / COMMON LIBRARIES
 - http://locutus.io/ (anteriormente phpjs)
 - http://underscorejs.org/
