@@ -8,6 +8,7 @@
 - https://www.google.es/search?q=how+to+become+a+better+webmaster
 - https://www.google.com/webmasters/
 - https://www.bing.com/webmaster/help/help-center-661b2d18#
+- https://dev.twitter.com/docs
 
 ## GENERAL / COMMON LIBRARIES
 - http://locutus.io/ (anteriormente phpjs)
