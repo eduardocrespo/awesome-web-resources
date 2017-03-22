@@ -1,5 +1,9 @@
 # awesome-web-resources
 
+## PLAYGROUNDS 
+- http://codepen.io/
+- https://jsfiddle.net/
+
 ## WEBMASTER TOOLS
 - https://www.google.es/search?q=how+to+become+a+better+webmaster
 - https://www.google.com/webmasters/
