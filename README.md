@@ -14,6 +14,7 @@
 - https://www.google.com/webmasters/
 - https://www.bing.com/webmaster/help/help-center-661b2d18#
 - https://dev.twitter.com/docs
+- https://developers.facebook.com/tools/debug/
 
 ## GENERAL / COMMON LIBRARIES
 - http://locutus.io/ (anteriormente phpjs)
