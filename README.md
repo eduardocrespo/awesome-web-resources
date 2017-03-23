@@ -23,6 +23,8 @@
 - http://rollupjs.org/
 - https://webpack.github.io/
 - http://enderjs.com/
+- modernizr.js: https://modernizr.com/
+- normalize.css: https://necolas.github.io/normalize.css/
 
 ## POLYMER
 - https://www.polymer-project.org/
