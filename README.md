@@ -1,5 +1,15 @@
 # awesome-web-resources
 
+## GOOGLE RICH CARDS
+- https://developers.google.com/search/docs/guides/
+- https://developers.google.com/search/docs/guides/search-gallery
+- https://developers.google.com/search/docs/data-types/recipes
+- https://search.google.com/structured-data/testing-tool
+
+- https://www.iprospect.com/es/es/blog/que-son-las-rich-cards-tarjetas-enriquecidas-de-google/
+* https://yoast.com/rich-cards/
+- http://www.seoskeptic.com/rich-cards-and-googles-structured-data-restructuring/
+
 ## ANIMATION
 - Animate.css: https://daneden.github.io/animate.css/ | https://github.com/daneden/animate.css
 - Velocity.js: http://velocityjs.org/ | https://github.com/julianshapiro/velocity
