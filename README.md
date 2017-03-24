@@ -27,6 +27,7 @@
 - https://developers.facebook.com/tools/debug/
 - https://developers.facebook.com/tools/debug/sharing/
 - https://search.google.com/structured-data/testing-tool
+- Google PageSpeed: https://developers.google.com/speed/pagespeed/
 
 ## GENERAL / COMMON LIBRARIES
 - http://locutus.io/ (anteriormente phpjs)
