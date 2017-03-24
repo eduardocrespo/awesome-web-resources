@@ -7,7 +7,7 @@
 - https://search.google.com/structured-data/testing-tool
 
 - https://www.iprospect.com/es/es/blog/que-son-las-rich-cards-tarjetas-enriquecidas-de-google/
-* https://yoast.com/rich-cards/
+- https://yoast.com/rich-cards/
 - http://www.seoskeptic.com/rich-cards-and-googles-structured-data-restructuring/
 
 ## ANIMATION
