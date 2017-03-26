@@ -1,5 +1,8 @@
 # awesome-web-resources
 
+## FONTS
+- http://fontawesome.io/
+
 ## GOOGLE RICH CARDS
 - https://developers.google.com/search/docs/guides/
 - https://developers.google.com/search/docs/guides/search-gallery
