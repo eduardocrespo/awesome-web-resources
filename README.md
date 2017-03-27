@@ -56,9 +56,9 @@
 - Colorbox: http://www.jacklmoore.com/colorbox/
 
 ## SLIDER / CAROUSEL
+- Slick: http://kenwheeler.github.io/slick/
 - FlexSlider 2: http://flexslider.woothemes.com/
 - Owl Carousel 2: https://owlcarousel2.github.io/OwlCarousel2/
-- Slick: http://kenwheeler.github.io/slick/
 - Filament Group Responsive Carousel: https://github.com/filamentgroup/responsive-carousel
 - Flickity: http://flickity.metafizzy.co/
   https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/
