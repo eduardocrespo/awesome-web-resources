@@ -1,5 +1,10 @@
 # awesome-web-resources
 
+## INSPIRATIONAL
+- http://tympanus.net/codrops/
+- http://desandro.com/
+- http://metafizzy.co/
+
 ## BASES DE DATOS
 - http://medoo.in/
 
@@ -55,6 +60,9 @@
 - Shadowbox: https://github.com/mjackson/shadowbox
 - Colorbox: http://www.jacklmoore.com/colorbox/
 
+## MODAL / ALERT
+- https://limonte.github.io/sweetalert2/
+
 ## SLIDER / CAROUSEL
 - Slick: http://kenwheeler.github.io/slick/
 - FlexSlider 2: http://flexslider.woothemes.com/
@@ -64,11 +72,6 @@
   https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/
 - Glide.js: http://glide.jedrzejchalubek.com/docs.html
 - MightySlider: https://mightyslider.com/
-
-## INSPIRATIONAL
-- http://tympanus.net/codrops/
-- http://desandro.com/
-- http://metafizzy.co/
 
 ## IMAGE PIN / IMAGE NOTES
 - https://github.com/atayahmet/jquery.easypin
