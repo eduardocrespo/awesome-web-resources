@@ -116,5 +116,6 @@
 - https://developer.mozilla.org/es/
 
 ## UITILES
+- Comparador de libreras: https://www.libhunt.com/
 - Comparador de librerías JS: https://js.libhunt.com/
 - Comparador de librerías PHP: https://php.libhunt.com/
