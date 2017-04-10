@@ -66,6 +66,7 @@
 
 ## MODAL / ALERT
 - https://limonte.github.io/sweetalert2/
+- http://t4t5.github.io/sweetalert/
 
 ## SLIDER / CAROUSEL
 - Slick: http://kenwheeler.github.io/slick/
