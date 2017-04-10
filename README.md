@@ -61,6 +61,7 @@
 - Magnific Popup: http://dimsemenov.com/plugins/magnific-popup/
 - Shadowbox: https://github.com/mjackson/shadowbox
 - Colorbox: http://www.jacklmoore.com/colorbox/
+- Chocolat: http://chocolat.insipi.de/#demo
 
 ## MODAL / ALERT
 - https://limonte.github.io/sweetalert2/
