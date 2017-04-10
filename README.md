@@ -1,5 +1,10 @@
 # awesome-web-resources
 
+## MATERIAL DESIGN
+- http://fezvrasta.github.io/bootstrap-material-design/ | https://github.com/FezVrasta/bootstrap-material-design
+- https://www.creative-tim.com/product/material-kit
+- https://mdbootstrap.com/material-design-for-bootstrap/
+
 ## INSPIRATIONAL
 - http://tympanus.net/codrops/
 - https://codyhouse.co/
