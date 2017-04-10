@@ -61,6 +61,7 @@
 - Magnific Popup: http://dimsemenov.com/plugins/magnific-popup/
 - Shadowbox: https://github.com/mjackson/shadowbox
 - Colorbox: http://www.jacklmoore.com/colorbox/
+- Image Lightbox: https://osvaldas.info/image-lightbox-responsive-touch-friendly
 - Chocolat: http://chocolat.insipi.de/#demo
 
 ## MODAL / ALERT
