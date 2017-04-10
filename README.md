@@ -114,3 +114,6 @@
 
 ## INVESTIGACIÓN
 - https://developer.mozilla.org/es/
+
+## UITILES
+- Comparador de librerías JS: https://js.libhunt.com/
